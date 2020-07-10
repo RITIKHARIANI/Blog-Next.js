@@ -1,6 +1,6 @@
 ## My Blog
 
-This is my Blog made using Next.js
+This is my Blog made using Next.js and Typescript
 
 ## Getting Started
 
